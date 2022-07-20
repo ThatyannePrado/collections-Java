@@ -31,5 +31,9 @@ Autor - Nome - Páginas
 A estrutura é a seguinte: <br>
 id = 1 - Contato = nome: "Ana", numero: "2222";<br>
 ...<br>
+2) ExerciciosStreamAPI<br>
+Dada a Lista de Strings: <br>
+["1","0","4","1","2","3","9","9","6","5"]<br>
+realizam-se operações utilizando streamAPI Java.
 
 
